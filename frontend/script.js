@@ -3,7 +3,7 @@
 /* ------------------------------------------------------------------
    Config – the only place you need to edit if the backend moves.
 ------------------------------------------------------------------- */
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://mental-health-score-uibk.onrender.com";
 const PREDICT_URL = `${API_BASE}/predict`;
 const REQUEST_TIMEOUT_MS = 20000;
 
